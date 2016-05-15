@@ -4,5 +4,9 @@ public class PushPrint {
 	{
 		for(int i = 0 ; i < 10 ; i++)
 			System.out.println("print!!");
+		for(int i = 0 ; i < 10 ; i++)
+			System.out.println("print!!");
+		for(int i = 0 ; i < 10 ; i++)
+			System.out.println("print!!");
 	}
 }
