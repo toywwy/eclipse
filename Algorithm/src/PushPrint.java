@@ -6,5 +6,10 @@ public class PushPrint {
 		System.out.println("print!!");
 		System.out.println("print!!");
 		System.out.println("print!!");
+		
+		System.out.println("print!!");
+		System.out.println("print!!");
+		System.out.println("print!!");
+		System.out.println("print!!");
 	}
 }
